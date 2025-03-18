@@ -1,0 +1,7 @@
+TEXT_RECORD_MANAGER_DB_URL = "sqlite:///./backend_lcro/databases/text_record_manager.db"
+IMAGE_RECORD_MANAGER_DB_URL = "sqlite:///./backend_lcro/databases/image_record_manager.db"
+VECTOR_CHROMA_DB_PATH = "./backend_lcro/databases/vectordb"
+PARENT_DOC_DB_PATH = "./backend_lcro/databases/docstore"
+CHAT_HISTORY_DB_PATH = "sqlite:///./backend_lcro/databases/chat_history.db"
+MEMORY_DB_PATH = "sqlite:///./backend_lcro/databases/memory.db"
+CHROMA_DOCS_INDEX_NAME = "LCRO_Combined_Docs_OpenAI"
